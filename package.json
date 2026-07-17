@@ -1,0 +1,21 @@
+{
+  "name": "cyd-ui-prototype",
+  "version": "1.0.0",
+  "main": "src/index.tsx",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "lucide-react": "^0.263.1",
+    "framer-motion": "^10.12.16",
+    "clsx": "^1.2.1",
+    "tailwind-merge": "^1.13.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.24",
+    "tailwindcss": "^3.3.2",
+    "typescript": "^5.1.3"
+  }
+}
